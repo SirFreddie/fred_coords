@@ -4,6 +4,6 @@
 
 # Commands
 
-| Command                  | Description                                   |
-|--------------------------|-----------------------------------------------|
-| /coords                  | Show your current player coords in real time. |
+| Command                  | Description                               |
+|--------------------------|-------------------------------------------|
+| /coords                  | Enable and disable your coords on screen. |
